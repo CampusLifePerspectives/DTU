@@ -1,6 +1,3 @@
-# Project info 
-
-
 ## Sign me up now!
 - To participate in the project, download the Urban Belonging App  
   [Get the app for Android](https://play.google.com/store/apps/details?id=com.urbanbelonging.app)    
@@ -31,15 +28,9 @@
 ---
 
 ## Data Policy
-- GDPR is baked into the app and [Authorized by Aalborg University](https://urbanbelonging.com/da?page=5)
+- [The app is GDPR Authorized by Aalborg University](https://urbanbelonging.com/da?page=5)
 - The app stores no sensitive data on participants, only login info; user ID, email & password
 - Data (images) can be deleted by the user who submitted it or by admin(s)
 - Links between user ID’s and further metadata about them will be held in a separate offline file
 - Images crowded with people will be run through [FaceBlur](https://github.com/guendas/FaceBlur), to mask their identity.
-
-
-
-## Timeplan
-
-## About us
 
