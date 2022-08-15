@@ -10,8 +10,10 @@
 <p align="center">
   <img src="images/Welcome to Urban Belonging.jpg" width="150"> <img src="images/Create an account.jpg" width="150"> 
 </p>
+
 - New users are registered at 2PM each day. Please be patient!
 - Once you have been added to the _Campus Care DTU_ group, you should see a list of the tasks you have been assigned   
+
 <p align="center">
   <img src="images/Your Groups Test.jpg" width="150"> <img src="images/Photo Tasks Test.jpg" width="150"> 
 </p>
