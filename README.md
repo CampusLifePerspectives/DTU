@@ -9,11 +9,9 @@ To participate in the project, download the Urban Belonging App:
 
 ### Sign up now!
 
+### What do i do in the app?
 
-
-### What to do in the app
-
-#### When will I get access to the Photo Tasks?
+<span style="color:#a42424"> # Coming soon!
 
 ### Data Policy
 - GDPR is baked into the app and [Authorized by Aalborg University](https://urbanbelonging.com/da?page=5)
