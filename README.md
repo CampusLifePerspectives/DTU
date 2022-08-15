@@ -17,7 +17,7 @@
 
 ### What do i do in the app?
 ---
-## <span style="color:#a42424">**Coming soon!**</span>
+## **<span style="color:#a42424">Coming soon!</span>**
 
 ## Data Policy
 - GDPR is baked into the app and [Authorized by Aalborg University](https://urbanbelonging.com/da?page=5)
