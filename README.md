@@ -3,7 +3,7 @@
   [Get the app for Android](https://play.google.com/store/apps/details?id=com.urbanbelonging.app)    
   [Get the app for IOS](https://apps.apple.com/us/app/urban-belonging/id1573456017)  
 - Signup using your DTU e-mail   
-(it might also be a good idea to use your student ID as username so you don't forget it!   
+(it might also be a good idea to use your student ID as username so you don't forget it! )  
    
    
 <p align="center">
