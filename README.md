@@ -8,7 +8,7 @@
 - Signup using your DTU mail and wait till you get tasks pushed to your phone. 
 - New users are registered at two o’clock each day
 - After signup, you will get tasks pushed to your phone
-![Urban Belonging Photo Task](https://github.com/AlfredFelumb/Campus-Care-DTU/blob/main/images/UB%20example%20test%20task.jpg “Urban Belonging Photo Task”)
+![Urban Belonging Photo Task](https://github.com/AlfredFelumb/Campus-Care-DTU/blob/main/images/UB%20example%20test%20task.jpg)
 - *important:* Please enable tracking at all times during tasks, otherwise we will not get geolocation data.
 ![2](link “logo title”)
 ### I don’t see anything in the app, what do I do?
