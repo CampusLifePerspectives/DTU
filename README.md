@@ -2,9 +2,9 @@
 
 
 ### Download the App 
-To participate in the project, download the Urban Belonging App  
-[Android](https://play.google.com/store/apps/details?id=com.urbanbelonging.app)  
-[IOS](https://apps.apple.com/us/app/urban-belonging/id1573456017)  
+To participate in the project, download the Urban Belonging App:  
+[Get the app for Android](https://play.google.com/store/apps/details?id=com.urbanbelonging.app)  
+[Get the app for IOS](https://apps.apple.com/us/app/urban-belonging/id1573456017)  
 
 
 ### Sign up now!
