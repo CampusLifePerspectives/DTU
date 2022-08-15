@@ -2,9 +2,9 @@
 
 
 ## Sign me up now!
-- To participate in the project, download the Urban Belonging App..
-  [Android](https://play.google.com/store/apps/details?id=com.urbanbelonging.app)  
-  [IOS](https://apps.apple.com/us/app/urban-belonging/id1573456017)
+- To participate in the project, download the Urban Belonging App
+   [Android](https://play.google.com/store/apps/details?id=com.urbanbelonging.app)  
+   [IOS](https://apps.apple.com/us/app/urban-belonging/id1573456017)
 - Signup using your DTU mail and wait till you get tasks pushed to your phone. 
 - New users are registered at two o’clock each day
 - After signup, you will get tasks pushed to your phone
