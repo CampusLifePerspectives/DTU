@@ -17,7 +17,7 @@ To start contributing to the project, you will first have to be part of the *Cam
 
 ### What do i do in the app?
 
-## <span style="color:#a42424">Coming soon!
+## <span style="color:#a42424"> **Coming soon!**
 
 ## Data Policy
 - GDPR is baked into the app and [Authorized by Aalborg University](https://urbanbelonging.com/da?page=5)
