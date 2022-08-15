@@ -13,7 +13,7 @@
 - New users are registered at 2PM each day. Please be patient!
 - Once you have been added to the *Campus Care DTU*, you should see a list of the tasks you have been assigned   
 <p align="center">
-  <img src="images/Your Groups Test.jpg" width="150"> <img src="images/Your Tasks Test.jpg" width="150"> 
+  <img src="images/Your Groups Test.jpg" width="150"> <img src="images/Photo Tasks Test.jpg" width="150"> 
 </p>
 
 
