@@ -9,7 +9,6 @@
 - New users are registered at two o’clock each day
 - After signup, you will get tasks pushed to your phone
 ![Urban Belonging Photo Task](https://github.com/AlfredFelumb/Campus-Care-DTU/blob/main/images/UB%20example%20test%20task.jpg)
-- *important:* Please enable tracking at all times during tasks, otherwise we will not get geolocation data.
 ![2](link “logo title”)
 ### I don’t see anything in the app, what do I do?
   To start contributing to the project, you will first have to be part of the *Campus Care DTU* group. As the process of adding new users is manual on our side, new users will be added every day at 12 PM. Please be patient!
