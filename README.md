@@ -8,7 +8,10 @@
 - Signup using your DTU mail and wait till you get tasks pushed to your phone. 
 - New users are registered at two o’clock each day
 - After signup, you will get tasks pushed to your phone   
-<img src="images/UB example test task.jpg" width="100"> <img src="images/UB example test task.jpg" width="300"> 
+<p align="center">
+  <img src="images/UB example test task.jpg" width="100"> <img src="images/UB example test task.jpg" width="300"> 
+</p>
+
 
 ### I don’t see anything in the app, what do I do?
   To start contributing to the project, you will first have to be part of the *Campus Care DTU* group. As the process of adding new users is manual on our side, new users will be added every day at 12 PM. Please be patient!
