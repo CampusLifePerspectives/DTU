@@ -15,7 +15,8 @@
   To start contributing to the project, you will first have to be part of the *Campus Care DTU* group. As the process of adding new users is manual on our side, new users will be added every day at 12 PM. Please be patient!
 
 
-### What do i do in the app?   
+### What do i do in the app?
+---
 ## <span style="color:#a42424">**Coming soon!**</span>
 
 ## Data Policy
