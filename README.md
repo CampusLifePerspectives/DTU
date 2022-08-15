@@ -9,7 +9,7 @@
 - New users are registered at two o’clock each day
 - After signup, you will get tasks pushed to your phone   
 <p align="center">
-  <img src="images/UB example test task.jpg" width="100"> <img src="images/UB example test task.jpg" width="300"> 
+  <img src="images/UB example test task.jpg" width="150"> <img src="images/UB example test task.jpg" width="150"> 
 </p>
 
 
