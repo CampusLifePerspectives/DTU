@@ -1,7 +1,3 @@
-Title poster
-header: For more info on the project, visit link
-
-
 # About the project
 The Campus Life Perspectives project is a collaboration with [DTU Campus Service](https://www.dtu.dk/om-dtu/organisation/administration/campus_service), [ERIK Architects](https://www.erik.dk/), [The Techno-Anthropology Lab](https://www.tantlab.aau.dk/) as well as [Polyteknisk Forening](https://www.pf.dk/) - and is part of [our](link) thesis project in Techno-Anthropology at Aalborg University Copenhagen. The project builds on an app developed in the [Urban Belonging Project](https://urbanbelonging.com/en) and aims to test it as a new, more participatory and more data driven way of evaluating buildings and urban areas - in this case Lyngby Campus. By participating, you get a chance to voice your opinions and share experiences on life at Lyngby Campus - and hopefully help make campus a better place. The data collection part of the project will run during September, and any insights produced will be made available to our project partners. It doesn’t matter if you're just starting at university, are about to finish or if you are just visiting for a the semester - your insights are valuable to us and the [Campus Renewal Project!](https://campusudvikling.dtu.dk/)
 
@@ -42,7 +38,7 @@ When you open one of the Photo Tasks, you have the three following options
 - Start a Reaction Round
 
 
-#### *Important* For the app to work properly, you have to give permission to see your location at all times!
+### *Important* For the app to work properly, you have to give permission to see your location at all times!
 
 <p align="center">  
   <img src="images/Your Groups Test.jpg" width="150"> <img src="images/Photo Tasks Test.jpg" width="150"> 
@@ -68,7 +64,6 @@ This function allows you to react to 20 random pictures that other users have ta
 <p align="center">
   <img src="images/Reaction UB Test 1.png" width="150"> <img src="images/Reaction Round UB Test 2.png" width="150"> 
 </p>
-[2 pictures]
 
 # Data Policy
 - [The app is GDPR Authorized by Aalborg University](https://urbanbelonging.com/da?page=5)
