@@ -8,7 +8,7 @@ The Campus Life Perspectives project is a collaboration with [DTU Campus Service
 
 # Where do I sign up?
 The only thing you need to participate, is the Urban Belonging App.
-- [Get the App for Android}(https://play.google.com/store/apps/details?id=com.urbanbelonging.app)
+- [Get the App for Android](https://play.google.com/store/apps/details?id=com.urbanbelonging.app)
 - [Get the App for IOS](https://apps.apple.com/us/app/urban-belonging/id1573456017)
 Once you have downloaded the app, create a new user using your DTU email. This is done to verify your connection to DTU and to get in touch with you if need be.
 
