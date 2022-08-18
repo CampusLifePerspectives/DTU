@@ -17,7 +17,13 @@ Once you have downloaded the app, create a new user using your DTU email. This i
 Once you have signed in to the app, you should be added to the *Campus Life Perspectives* Group soon. As adding new users is a manual process on our side, we will strive to add new users each day at 2PM. If you have any problems signing up or if you haven’t been added to the group yet, feel free to write us at alfredlf@ikl.aau.dk
 
 # What do I do in the App?
-Once you are part of the Campus Life Perspectives Group, you should see four Photo Tasks in the group. The Photo Tasks are intended to provide a thematic for the pictures you take using the app:
+Once you are part of the Campus Life Perspectives Group, you should see four Photo Tasks in the group. 
+
+<p align="center">  
+  <img src="images/Your Groups Test.jpg" width="150"> <img src="images/Photo Tasks Test.jpg" width="150"> 
+</p>
+
+The Photo Tasks are intended to provide a thematic for the pictures you take using the app:
 
 ## Social Life
 With this task, we want you to take pictures of the places around Lyngby Campus you go to be social, connect or just hang out. This could be your favorite friday bar, cafe, or just a place you like to hang out when the weather is nice.
@@ -37,12 +43,7 @@ When you open one of the Photo Tasks, you have the three following options
 - Go for a Walk
 - Start a Reaction Round
 
-
-### *Important:* You have to grant the app permission to get your location at all times!
-
-<p align="center">  
-  <img src="images/Your Groups Test.jpg" width="150"> <img src="images/Photo Tasks Test.jpg" width="150"> 
-</p>
+### *Important* For the app to work properly, you have to give permission to see your location at all times!
 
 ## Take a Picture
 Once you have taken a picture of something you want to share, you are asked to do two things: Rate the picture in terms of your sentiment to the place (“Is this for me?”), and assign tags to the picture, according to what made you take it. If you don’t find a tag on the list that fits your picture, feel free to add your own, using the “other” button.
