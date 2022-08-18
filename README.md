@@ -23,18 +23,18 @@ Once you are part of the Campus Life Perspectives Group, you should see the Phot
   <img src="images/Your Groups Test.jpg" width="150"> <img src="images/Photo Tasks Test.jpg" width="150"> 
 </p>
 
-The Photo Tasks are intended to provide a thematic for the pictures you take using the app:
+The following Photo Tasks are intended to provide a thematic for the pictures you take using the app:
 
-## Social Life
+### Social Life
 With this task, we want you to take pictures of the places around Lyngby Campus you go to be social, connect or just hang out. This could be your favorite friday bar, cafe, or just a place you like to hang out when the weather is nice.
 
-## Study Life
+### Study Life
 With this task, we want you to take pictures of the places you go around campus to study. This could simply be your favorite lecture hall, the place you go to do group work, or somewhere you like to sit when reading or doing project work.
 
-## Campus Life Inspiration
+### Campus Life Inspiration
 This one is a bit more abstract, but with the task we want you to take pictures of places around campus you find inspiring (whatever that means to you). This could be one of the many laboratories or industry partners around campus or just places you enjoy the architecture or interior design.
 
-## Campus wellbeing
+### Campus wellbeing
 Have you ever had evening class or had to walk home from campus and felt unsafe? With this question, we want to focus on the places around campus that you _don’t_ like to be in. This could be from lack of proper lighting, too open or closed-off spaces, or bad experiences. Whatever the case, if you find a place unpleasant to be in or walk through, take a picture of the occasion.
 
 # How does the app work?
