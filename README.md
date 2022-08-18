@@ -1,8 +1,9 @@
+Title poster
+header: For more info on the project, visit link
+
+
 # About the project
 The Campus Life Perspectives project is a collaboration with [DTU Campus Service](https://www.dtu.dk/om-dtu/organisation/administration/campus_service), [ERIK Architects](https://www.erik.dk/), [The Techno-Anthropology Lab](https://www.tantlab.aau.dk/) as well as [Polyteknisk Forening](https://www.pf.dk/) - and is part of [our](link) thesis project in Techno-Anthropology at Aalborg University Copenhagen. The project builds on an app developed in the [Urban Belonging Project](https://urbanbelonging.com/en) and aims to test it as a new, more participatory and more data driven way of evaluating buildings and urban areas - in this case Lyngby Campus. By participating, you get a chance to voice your opinions and share experiences on life at Lyngby Campus - and hopefully help make campus a better place. The data collection part of the project will run during September, and any insights produced will be made available to our project partners. It doesn’t matter if you're just starting at university, are about to finish or if you are just visiting for a the semester - your insights are valuable to us and the [Campus Renewal Project!](https://campusudvikling.dtu.dk/)
-
-
-
 
 
 # Where do I sign up?
@@ -11,33 +12,64 @@ The only thing you need to participate, is the Urban Belonging App.
 - [Get the App for IOS](https://apps.apple.com/us/app/urban-belonging/id1573456017)
 Once you have downloaded the app, create a new user using your DTU email. This is done to verify your connection to DTU and to get in touch with you if need be.
 
-   
-   
 <p align="center">
   <img src="images/Welcome to Urban Belonging.jpg" width="150"> <img src="images/Create an account.jpg" width="150"> 
 </p>
 
-- New users are registered at 2PM each day. Please be patient!
-- Once you have been added to the _Campus Care DTU_ group, you should see a list of the tasks you have been assigned   
-   
-   
+Once you have signed in to the app, you should be added to the *Campus Life Perspectives* Group soon. As adding new users is a manual process on our side, we will strive to add new users each day at 2PM. If you have any problems signing up or if you haven’t been added to the group yet, feel free to write us at alfredlf@ikl.aau.dk
+
+# What do I do in the App?
+Once you are part of the Campus Life Perspectives Group, you should see four Photo Tasks in the group. The Photo Tasks are intended to provide a thematic for the pictures you take using the app:
+
+## Social Life
+With this task, we want you to take pictures of the places around Lyngby Campus you go to be social, connect or just hang out. This could be your favorite friday bar, cafe, or just a place you like to hang out when the weather is nice.
+
+## Study Life
+With this task, we want you to take pictures of the places you go around campus to study. This could simply be your favorite lecture hall, the place you go to do group work, or somewhere you like to sit when reading or doing project work.
+
+## Campus Life Inspiration
+This one is a bit more abstract, but with the task we want you to take pictures of places around campus you find inspiring (whatever that means to you). This could be one of the many laboratories or industry partners around campus or just places you enjoy the architecture or interior design.
+
+## Campus wellbeing
+Have you ever had evening class or had to walk home from campus and felt unsafe? With this question, we want to focus on the places around campus that you _don’t_ like to be in. This could be from lack of proper lighting, too open or closed-off spaces, or bad experiences. Whatever the case, if you find a place unpleasant to be in or walk through, take a picture of the occasion.
+
+# How does the app work?
+When you open one of the Photo Tasks, you have the three following options
+- Take a Picture
+- Go for a Walk
+- Start a Reaction Round
+
+   *Important* For the app to work properly, you have to give permission to see your location at all times!
+
 <p align="center">
   <img src="images/Your Groups Test.jpg" width="150"> <img src="images/Photo Tasks Test.jpg" width="150"> 
 </p>
 
+## Take a Picture
+Once you have taken a picture of something you want to share, you are asked to do two things: Rate the picture in terms of your sentiment to the place (“Is this for me?”), and assign tags to the picture, according to what made you take it. If you don’t find a tag on the list that fits your picture, feel free to add your own, using the “other” button.
 
-### What do I do in the app?
+<p align="center">
+  <img src="images/Take a Picture UB Test 1.jpg" width="150"> <img src="images/Take a Picture Tags.jpg" width="150"> 
+</p>
 
----
+## Go for a walk
+With this option, the app tracks your positioning for the duration of your “walk”, until you close the app again or submit your walk. With this option you can still take pictures along the way, but you can use it if you want to put special emphasis on a route you normally take - or even one you want to avoid!
 
-<span style="color:#a42424;font-weight:bold;font-size:250%">Coming soon!</span>
+<p align="center">
+  <img src="images/Go for a Walk UB Test 1.jpg" width="150"> <img src="images/Go for a Walk UB Test 2 .jpg" width="150"> 
+</p>
 
----
+## Start a Reaction Round
+This function allows you to react to 20 random pictures that other users have taken. Just as if you took it self, you can give your sentiment on the picture (“is this for me?”) and assign any tags you feel fit the picture. This function is our primary way of knowing if users feel the same way about places around campus, so feel free to react as much as you want - even if you sometimes see pictures from places you haven’t been to.
 
-## Data Policy
+<p align="center">
+  <img src="images/Reaction Round UB Test 1.jpg" width="150"> <img src="images/Reaction Round UB Test 2 .jpg" width="150"> 
+</p>
+[2 pictures]
+
+# Data Policy
 - [The app is GDPR Authorized by Aalborg University](https://urbanbelonging.com/da?page=5)
-- The app stores no sensitive data on participants, only login info; user ID, email & password
-- Data (images) can be deleted by the user who submitted it or by admin(s)
-- Links between user ID’s and further metadata about them will be held in a separate offline file
-- Images crowded with people will be run through [FaceBlur](https://github.com/guendas/FaceBlur), to mask their identity.
-
+- No personal information on users is collected, apart from the pictures taken, their annotation, as well as the location and time of day
+- Should you regret taking a picture, you can always delete it
+- All pictures will be run through [FaceBlur](https://github.com/guendas/FaceBlur) to mask people's identities
+- If you have any questions or concerns, feel free to write us at: alfredlf@ikl.aau.dk
