@@ -42,7 +42,7 @@ When you open one of the Photo Tasks, you have the three following options
 - Start a Reaction Round
 
 
-*Important* For the app to work properly, you have to give permission to see your location at all times!
+**** *Important* For the app to work properly, you have to give permission to see your location at all times!
 
 <p align="center">  
   <img src="images/Your Groups Test.jpg" width="150"> <img src="images/Photo Tasks Test.jpg" width="150"> 
