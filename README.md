@@ -56,14 +56,14 @@ Once you have taken a picture of something you want to share, you are asked to d
 With this option, the app tracks your positioning for the duration of your “walk”, until you close the app again or submit your walk. With this option you can still take pictures along the way, but you can use it if you want to put special emphasis on a route you normally take - or even one you want to avoid!
 
 <p align="center">
-  <img src="images/Go for a Walk UB Test 1.png" width="150"> <img src="images/Go for a Walk UB Test 2 .png" width="150"> 
+  <img src="images/Go for a Walk UB Test 1.png" width="150"> <img src="images/Go for a Walk UB Test 2.png" width="150"> 
 </p>
 
 ## Start a Reaction Round
 This function allows you to react to 20 random pictures that other users have taken. Just as if you took it self, you can give your sentiment on the picture (“is this for me?”) and assign any tags you feel fit the picture. This function is our primary way of knowing if users feel the same way about places around campus, so feel free to react as much as you want - even if you sometimes see pictures from places you haven’t been to.
 
 <p align="center">
-  <img src="images/Reaction Round UB Test 1.png" width="150"> <img src="images/Reaction Round UB Test 2 .png" width="150"> 
+  <img src="images/Reaction Round UB Test 1.png" width="150"> <img src="images/Reaction Round UB Test 2.png" width="150"> 
 </p>
 [2 pictures]
 
