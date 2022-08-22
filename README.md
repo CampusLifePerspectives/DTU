@@ -65,7 +65,7 @@ With this option, the app tracks your positioning for the duration of your “wa
 This function allows you to react to 20 random pictures that other users have taken. Just as if you took it self, you can give your sentiment on the picture (“is this for me?”) and assign any tags you feel fit the picture. This function is our primary way of knowing if users feel the same way about places around campus, so feel free to react as much as you want - even if you sometimes see pictures from places you haven’t been to.
 
 <p align="center">
-  <img src="images/Reaction UB Test 1.png" width="150"> <img src="images/Reaction Round UB Test 2.png" width="150"> 
+  <img src="images/Reaction Round 1.jpg" width="150"> <img src="images/Reaction Round 2.jpg" width="150"> 
 </p>
 
 # Data Policy
