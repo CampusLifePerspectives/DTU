@@ -36,7 +36,7 @@ With this task, we want you to take pictures of the places you go around campus 
 ### Campus Life Inspiration
 This one is a bit more abstract, but with the task we want you to take pictures of places around campus you find inspiring (whatever that means to you). This could be one of the many laboratories or industry partners around campus or just places you enjoy the architecture or interior design.
 
-### Campus wellbeing
+### Campus Wellbeing
 Have you ever had evening class or had to walk home from campus and felt unsafe? With this question, we want to focus on the places around campus that you _don’t_ like to be in. This could be from lack of proper lighting, too open or closed-off spaces, or bad experiences. Whatever the case, if you find a place unpleasant to be in or walk through, take a picture of the occasion.
 
 # How does the app work?
