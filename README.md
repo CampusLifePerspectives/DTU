@@ -30,10 +30,10 @@ The following Photo Tasks are intended to provide a thematic for the pictures yo
 ### Social Life
 With this task, we want you to take pictures of the places around Lyngby Campus (inside or outside) you go to be social, connect or just hang out. This could be your favorite Friday bar, cafe, or just a place you like to hang out when the weather is nice.
 
-### Study Life
+### Study Activities
 With this task, we want you to take pictures of the places (inside or outside) you go around campus to study. This could simply be your favorite lecture hall, the place you go to do group work, or somewhere you like to sit when reading or doing group work.
 
-### Campus Life Inspiration
+### Motivation and inspiration
 This one is a bit more abstract, but with the task we want you to take pictures of places around campus you find inspiring (whatever that means to you). This could be one of the many laboratories around campus or just places you enjoy the architecture or interior design.
 
 ### Campus Wellbeing
