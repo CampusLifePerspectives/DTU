@@ -28,13 +28,13 @@ Once you are part of the Campus Life Perspectives Group, you should see the Phot
 The following Photo Tasks are intended to provide a thematic for the pictures you take using the app:
 
 ### Social Life
-With this task, we want you to take pictures of the places around Lyngby Campus you go to be social, connect or just hang out. This could be your favorite friday bar, cafe, or just a place you like to hang out when the weather is nice.
+With this task, we want you to take pictures of the places around Lyngby Campus (inside or outside) you go to be social, connect or just hang out. This could be your favorite Friday bar, cafe, or just a place you like to hang out when the weather is nice.
 
 ### Study Life
-With this task, we want you to take pictures of the places you go around campus to study. This could simply be your favorite lecture hall, the place you go to do group work, or somewhere you like to sit when reading or doing project work.
+With this task, we want you to take pictures of the places (inside or outside) you go around campus to study. This could simply be your favorite lecture hall, the place you go to do group work, or somewhere you like to sit when reading or doing group work.
 
 ### Campus Life Inspiration
-This one is a bit more abstract, but with the task we want you to take pictures of places around campus you find inspiring (whatever that means to you). This could be one of the many laboratories or industry partners around campus or just places you enjoy the architecture or interior design.
+This one is a bit more abstract, but with the task we want you to take pictures of places around campus you find inspiring (whatever that means to you). This could be one of the many laboratories around campus or just places you enjoy the architecture or interior design.
 
 ### Campus Wellbeing
 Have you ever had evening class or had to walk home from campus and felt unsafe? With this question, we want to focus on the places around campus that you _don’t_ like to be in. This could be from lack of proper lighting, too open or closed-off spaces, or bad experiences. Whatever the case, if you find a place unpleasant to be in or walk through, take a picture of the occasion.
