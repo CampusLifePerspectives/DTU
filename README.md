@@ -22,7 +22,7 @@ This theme is about the places around Lyngby Campus (inside or outside) you find
 - _What is a good place to study?_
 - _Where do you feel most productive?_
 - _Where do you like to do group work?_
-- _What is your favorite lecture hall?_    
+- _What is your favorite auditorium?_    
 
 ### Motivation & Inspiration
 This theme is about what parts of campus elicit feelings of inspiration or motivation. This could be because of one of the many laboratories around campus or any other reasons you feel inspired.
