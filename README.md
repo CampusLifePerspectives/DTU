@@ -1,13 +1,14 @@
 # <span style="color:#95362D;font-weight:bold;font-size:150%"> Campus Life Perspectives</span>
 
 ## *How do the material surroundings of DTU Campus, Lyngby, contribute in producing a good study environment?*
-In light of the [Campus Renewal Project](https://campusudvikling.dtu.dk/), you have the opportunity to get your perspective on Campus heard. In collaboration with DTU Campus Service, Polyteknisk Forening and [ERIK Architects](https://www.erik.dk/) – lead building consultant at DTU – we invite you to participate in our thesis project, and help shape the future of Lyngby Campus. Read more about how [here!](https://campuslifeperspectives.github.io/About-the-Project/)
+In light of the [Campus Renewal Project](https://campusudvikling.dtu.dk/), you have the opportunity to get your perspective on Campus heard. In collaboration with DTU Campus Service, Polyteknisk Forening and [ERIK Architects](https://www.erik.dk/) – lead building consultant at DTU – we invite you to participate in our thesis project, and help shape the future of Lyngby Campus. 
+### Read more about how [here!](https://campuslifeperspectives.github.io/About-the-Project/)
 # What we need you to do
 - Download and sign up with your DTU email
 - Take a couple of pictures at campus *(at least one per thematic group)*
 - React to the pictures of others *(at least one round)*
 
-### During September, participants who complete tasks, will be eligible for free coffee at [our stand](https://campuslifeperspectives.github.io/Coffee). By then end, if all tasks have been completed you get a chance to win a gift card worth 300,- DKK
+#### During September, participants who complete tasks, will be eligible for free coffee at [our stand](https://campuslifeperspectives.github.io/Coffee). By then end, if all tasks have been completed you get a chance to win a gift card worth 300,- DKK
 
 <p align="center">
 <img src="images/LP INFOGRAPHICS.svg">
