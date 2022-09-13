@@ -3,7 +3,7 @@
 ## *How do the material surroundings of DTU Campus, Lyngby, contribute in producing a good study environment?*
 In light of the [Campus Renewal Project](https://campusudvikling.dtu.dk/), you have the opportunity to get your perspective on Campus heard. In collaboration with DTU Campus Service, Polyteknisk Forening and [ERIK Architects](https://www.erik.dk/) – lead building consultant at DTU – we invite you to participate in our thesis project, and help shape the future of Lyngby Campus. 
 ### Read more about how [here!](https://campuslifeperspectives.github.io/About-the-Project/)
-# What we need you to do
+# What you need to do
 - Download and sign up with your DTU email
 - Take a couple of pictures at campus *(at least one per thematic group)*
 - React to the pictures of others *(at least one round)*
